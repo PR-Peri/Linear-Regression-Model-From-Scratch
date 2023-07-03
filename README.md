@@ -7,3 +7,5 @@ Delving into the mathematical foundations of algorithms and their practical appl
     </a>
 
 </li>
+<li> Linear Regression - Covers Multi Linear Regression [In-Progress]
+</li>
