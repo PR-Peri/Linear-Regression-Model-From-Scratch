@@ -5,7 +5,6 @@ Delving into the mathematical foundations of algorithms and their practical appl
     <a href="https://pr-peri.github.io/2023/06/22/linear-regression.html" title="Link to GitHub Repository">
         [Link to Article]
     </a>
-
 </li>
 <li> Linear Regression - Covers Multi Linear Regression [In-Progress]
 </li>
