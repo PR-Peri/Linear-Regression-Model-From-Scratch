@@ -1,4 +1,4 @@
-# Understanding-Maths-Behind-Algorithm
+# Understanding-Maths-Behind-Linear-Regression-Model
 Delving into the mathematical foundations of algorithms and their practical applications by building code implementations from scratch. 
 
 <li> Linear Regression - Covers Simple-Linear Regression 
